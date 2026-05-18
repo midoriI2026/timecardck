@@ -6,5 +6,6 @@
 // @match        https://midorinet-iwate.cybozu.com/o/ag.cgi?page=SystemTimeCardUser*
 // @run-at       document-end
 // @require      https://raw.githubusercontent.com/midoriI2026/timecardck/main/timecardck.js
+// @require      https://raw.githubusercontent.com/midoriI2026/timecardck/main/timecardtimeck.js
 // @grant        none
 // ==/UserScript==
